@@ -1,0 +1,8 @@
+<layman>
+<overlays>
+<overlay status="unoffficial" contact="ker-ching@kaifa.me" name="Gentoolizing" src="git://github.com/ker-ching/Gentoolizing.git" type="git">
+<link>http://kaifa.me</link>
+<description>Gentoolizing Overlay</description>
+</overlay>
+</overlays>
+</layman>
