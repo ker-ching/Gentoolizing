@@ -1,13 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <layman>
-	<overlays>
-		<overlay type = "git"
-			src = "git://github.com/ker-ching/Gentoolizing.git"
-			contact = "ker-ching@kaifa.me"
-			status = "unofficial"
-			name = "Gentoolizing">
-			<link>http://kaifa.me</link>
-			<description>ker-ching's Gentoo overlay</description>
-		</overlay>
-	</overlays>
+    <overlay contact = "ker-ching@kaifa.me"
+            name = "Gentoolizing"
+            src = "git://github.com/ker-ching/Gentoolizing.git"
+            type = "git"
+            status = "unofficial">
+        <link>http://github.com/ker-ching/Gentoolizing/</link>
+        <description>
+            A Gentoo overlay with some interesting ebuilds
+        </description>
+    </overlay>
 </layman>
